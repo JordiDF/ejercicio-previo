@@ -1,0 +1,13 @@
+/* Jorge Diest Fábregas (IFCD0210 | UF1846) */
+
+#productos{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.precio{
+    color: darkblue;
+}
+.desc{
+    color: black;
+}
